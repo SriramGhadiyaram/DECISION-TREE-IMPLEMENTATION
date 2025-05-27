@@ -22,3 +22,12 @@ Training the model involves calling the .fit() method on the training data. Once
 
 Pruning the tree by limiting its depth or setting thresholds for splits is essential to reduce overfitting and enhance model generalizability. Google Colab makes this entire process seamless by allowing users to write, test, and visualize models interactively within a single environment. Additionally, Colab supports integration with GitHub, Google Drive, and various datasets, making data access and collaboration easier. Overall, the preparation of a decision tree in Google Colab encompasses data loading, cleaning, model training, evaluation, and visualization — all of which can be accomplished using Python’s rich ecosystem of libraries.
 
+![Image](https://github.com/user-attachments/assets/e5ee7e8a-33a9-44cd-977c-75e35eaf5365)
+
+![Image](https://github.com/user-attachments/assets/bb5d7278-a33a-4a29-89d9-d69db41915dc)
+
+![Image](https://github.com/user-attachments/assets/00ce2c19-60da-4f8e-a84f-c4b6969db006)
+
+![Image](https://github.com/user-attachments/assets/5ce92736-e375-44b6-a897-4620d1a037cd)
+
+![Image](https://github.com/user-attachments/assets/69a4b0c3-dd58-4679-a03e-82830e76a916)
